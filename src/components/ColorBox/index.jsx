@@ -22,9 +22,10 @@ import uncontrolled from '../../helpers/uncontrolled';
 import * as CommonTypes from '../../helpers/commonTypes';
 import useTranslate from '../../helpers/useTranslate';
 
+// eslint-disable-next-line no-unused-vars
 const useStyles = makeStyles(theme => ({
   root: {
-    backgroundColor: theme.palette.background.paper,
+    backgroundColor: 'white',
     position: 'relative',
     width: 'min-content',
     height: 'min-content',

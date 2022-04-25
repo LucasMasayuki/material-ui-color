@@ -7,7 +7,11 @@ import Box from "@mui/material/Box";
 import { ColorPicker, createColor } from "material-ui-color";
 
 const theme = createTheme({
-  palette: {}
+  palette: {
+    background: {
+      paper: 'white',
+    },
+  }
 });
 
 export default function App() {
