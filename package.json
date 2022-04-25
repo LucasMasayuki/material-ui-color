@@ -4,7 +4,7 @@
   "description": "The lightest colorpicker for React Material-Ui. No dependencies. It uses Hooks and support Typescript, and more !",
   "main": "./dist/index.js",
   "module": "./dist/esm/index.js",
-  "typings": "/dist/index.d.ts",
+  "typings": "./dist/index.d.ts",
   "homepage": "https://mikbry.github.io/material-ui-color/",
   "repository": "https://github.com/mikbry/material-ui-color.git",
   "bugs": "https://github.com/mikbry/material-ui-color/issues",
